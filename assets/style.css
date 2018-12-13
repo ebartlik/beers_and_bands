@@ -13,6 +13,9 @@ body{
     background-attachment: fixed;
 }
 
+.description{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 
 .jumbotron{
     background-color: white;
